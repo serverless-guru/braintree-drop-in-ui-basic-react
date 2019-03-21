@@ -1,5 +1,9 @@
 # Braintree React Basic
-This has the most minimal code possible to use Braintree Drop-in UI with React.
+This has the most minimal code possible to use Braintree Drop-in UI with React. 
+
+To activate the UI for this, create a Braintree Sandbox account at sandbox.braintreegateway.com.
+
+To generate a tokenization key, used in `src/App.js` inside `dropin.create()`, read https://developers.braintreepayments.com/guides/authorization/tokenization-key/javascript/v3
 
 ### `npm start`
 
